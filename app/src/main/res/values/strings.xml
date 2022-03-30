@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tutorial2</string>
+    <string name="temp_et_hint">Enter the Value</string>
+    <string name="temp_view_celcius">Celcius</string>
+    <string name="temp_view_fahrenhite">Fehrenhite</string>
+    <string name="temp_view_calculate">Calculate</string>
+</resources>
